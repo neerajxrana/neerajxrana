@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Neeraj Rana.</h1>
-<h2 align="center">A 4rd year CS Undergrad who loves to tinker around.</h3>
+<h2 align="center">A 4th year CS Undergrad who loves to tinker around.</h3>
 
 <img align="right" width="450" height="400" src="https://sahaysdailypost.com/wp-content/uploads/2018/05/1571122231571.png">
 
