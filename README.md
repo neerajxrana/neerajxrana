@@ -4,13 +4,13 @@
 <img align="right" width="450" height="400" src="https://sahaysdailypost.com/wp-content/uploads/2018/05/1571122231571.png">
 
 
-- 🔭 I’m currently working on [Edytor](https://github.com/neerajxrana/Edytor)
+- 🔭 I’m currently working on [my blog](https://github.com/neerajxrana/neerajxrana.github.io)
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Go**
 
 - 👯 I’m looking to collaborate on **something interesting**
 
-- 🤝 I’m looking for help with **Augmented Reality**
+- 🤝 I’m looking for help with **Web Dev with Go**
 
 - 📫 How to reach me **neerajrana2001@gmail.com**
 
